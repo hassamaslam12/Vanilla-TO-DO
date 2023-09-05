@@ -98,6 +98,13 @@ padding: 2px;
 }
 
 
+
+.input input{
+    min-width: 70%;
+
+}
+
+
 .btn-add{
     
     padding:  5px 10px; 
@@ -158,3 +165,10 @@ padding: 2px;
 }
 
 
+
+/* 
+@media only screen and (min-width: 600px) {
+    .input{
+        min-width: 60vw;
+    }
+  } */
